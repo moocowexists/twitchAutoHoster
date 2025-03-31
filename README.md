@@ -8,11 +8,11 @@ Step 1: Get Your OAuth Token
     6.Copy the Access Token (OAuth Token).
 
 Step 2: Get Your Client ID
-    1. On the same page, find Client ID (above the Access Token).
-    2. 2.Copy the Client ID.
+        1. On the same page, find Client ID (above the Access Token).
+        2. 2.Copy the Client ID.
 
 Step 3: Enter Credentials into Twitch Auto-Raider
-  1.Open the Twitch Auto-Raider application.
-  2.Paste the OAuth Token into the "OAuth Token" field.
-  3.Paste the Client ID into the "Client ID" field.
-  4.Enter your Twitch Channel Name
+  	1.Open the Twitch Auto-Raider application.
+  	2.Paste the OAuth Token into the "OAuth Token" field.
+ 	3.Paste the Client ID into the "Client ID" field.
+  	4.Enter your Twitch Channel Name
